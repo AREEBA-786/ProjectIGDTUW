@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2648379-de09-4b15-b4a0-d2ece001cbce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ProjectIGDTUW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q10Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q11Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q12Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q13Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q14Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q15Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q16Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q17Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q18Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q19Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q20Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q21Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q22Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q23Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q24Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q25Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q26Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q27Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q4Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q5Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q6Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q7Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q8Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q9Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AREEBA-786"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AREEBA-786/ProjectIGDTUW.git",
+    "accountId": "ccf62863-5473-46cf-b751-a773f33fbc2e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2i3hwTWi9HhfPKMzcIk1fyTjd3a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Q10Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q11Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q12Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q13Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q14Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q1Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q21Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q23Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q24Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q25Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q26Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q27Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q2Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q3Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q4Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q5Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q6Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q7Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q8Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q9Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.Q14Assignment">
+    <configuration name="Q14Assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectIGDTUW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q14Assignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q21Assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectIGDTUW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q21Assignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q23Assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectIGDTUW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q23Assignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q24Assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectIGDTUW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q24Assignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q25Assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectIGDTUW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q25Assignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ProjectIGDTUW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Q14Assignment" />
+        <item itemvalue="Python.Q21Assignment" />
+        <item itemvalue="Python.Q23Assignment" />
+        <item itemvalue="Python.Q24Assignment" />
+        <item itemvalue="Python.Q25Assignment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2648379-de09-4b15-b4a0-d2ece001cbce" name="Changes" comment="" />
+      <created>1718725407890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718725407890</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
